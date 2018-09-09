@@ -1,5 +1,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+
 A prototype Front-end Startup-Page named “Purrfect Match”, having functionalities like:
   
   •	Logo
@@ -13,6 +14,8 @@ A prototype Front-end Startup-Page named “Purrfect Match”, having functional
   •	Hovering Effect on each button.
   
   •	Get Started Button.
+
+
 
 Technologies used:
   
